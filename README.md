@@ -156,13 +156,17 @@ Github：https://github.com/yinmo-sc/Decoding-Payment-System-Book
 
 ● 分布式环境下流控技术汇总（完成）
 
-【分库分表】
-
-【多活】
-
 【资损防控】
 
 ● 一种行之有效的防错策略：在支付系统中实施防呆设计的实践（完成）
+
+【数据库与事务】
+
+● Spring事务模板及afterCommit存在的坑 （完成）
+
+【分库分表】
+
+【多活】
 
 【监控核对告警】
 
